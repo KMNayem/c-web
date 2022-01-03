@@ -14,3 +14,14 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
+body,img{
+    height: 70px;
+     
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    background-color: white;
+    background-size: 60;
+}
